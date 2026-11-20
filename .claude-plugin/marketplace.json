@@ -1,0 +1,13 @@
+{
+  "name": "bryan-design-skills",
+  "owner": {
+    "name": "bryanfaustorealty"
+  },
+  "plugins": [
+    {
+      "name": "emil-skills",
+      "source": "./",
+      "description": "All design and engineering skills from Emil Kowalski"
+    }
+  ]
+}
